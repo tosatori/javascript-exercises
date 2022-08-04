@@ -1,4 +1,4 @@
-/* Pass Array input as first parameter, and Array args of variable length, indicaated by the three dots as second parameter. */
+/* Pass Array input as first parameter, and Array args of variable length, indicated by the three dots as second parameter. */
 const removeFromArray = function(input, ...args) {
     // loop through every element in Array args
     for (const i in args) {
