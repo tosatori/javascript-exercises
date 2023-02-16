@@ -8,3 +8,9 @@ Create a function that returns a specific member of the Fibonacci sequence:
 fibonacci(4) // returns the 4th member of the series: 3  (1, 1, 2, 3)
 fibonacci(6) // returns 8
 ```
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This Exercise is part of the Odin Projects Foundation Course. By solving it I learned a new way of computing the fibonacci numbers.
+
+16.02.2023
