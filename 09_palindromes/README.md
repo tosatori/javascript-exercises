@@ -17,3 +17,10 @@ palindromes('tacos') // false
 ```
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This Exercise is part of the Odin Projects Foundation Course. Solving it I learned about built in Array functions and Regular Expressions.
+
+16.02.2023
+
+
